@@ -57,5 +57,5 @@ server.del('/user/:id', (req, res, next) => {
 
 // start the server
 server.listen(3000, () => {
-	console.log('%s escuchando en%s', server.name, server.url)
+	console.log('%s escuchando en %s', server.name, server.url)
 })
