@@ -1,6 +1,4 @@
-# Node Class
-> This is a course to introduce to basic and intermedia knowledge about backend with node js
-## First Class
+# First Class
 
 ### ¿Que es API?
 Un API no es una bd ni un server. Un API es el codigo
@@ -73,7 +71,3 @@ Luego enviamos el status... en este caso 200.
 Finalmente enviamos el dato de vuelta, con stringfy convertimos un json a un string.
 
 Luego crearemos otra ruta. Para retornar por id.
-
-## Second class
-
-Comming soon..
