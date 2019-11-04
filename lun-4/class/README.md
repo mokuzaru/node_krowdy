@@ -1,4 +1,4 @@
-# Class about mondo db and passport
+# Class about mondo db 
 
 > this is for using node with express to conect to a mongo db (local) and react.
 
@@ -33,5 +33,3 @@ Luego en el html creamos una componente div con id "app" para que react luego en
 Luego hacemos la com con db
 Mongoose nos permite conectarnos a la db y definir como se veran los datos dentro de la db
  Luego en tareas llamamos mongose para dar forma a los datos, para eso llamamos una parte de la biblioteca que se llama schema.
-
- 
